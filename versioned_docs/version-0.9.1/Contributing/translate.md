@@ -24,6 +24,7 @@ If you have a suggestion for a language or want to bring in your skills on a cer
 
 ## Translators
 
+HE Hebrew: **orielhaim#7793**<br/>
 :de: German: **1Day2Die#0849**<br/>
 :de: German: **BolverBlitz#4881**<br/>
 :it: Italian: **Dotto#8067**<br/>
